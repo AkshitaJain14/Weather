@@ -5,8 +5,6 @@ Welcome to our Weather repository! This project aims to provide users with a sim
 
 Features:
 Current Weather Display: Users can view the current weather conditions for their desired city.
-Forecast: Forecast information for the upcoming days is provided, allowing users to plan ahead.
-Location Selection: Users can input their location either manually or through geolocation services for accurate weather updates.
 Responsive Design: The website is designed to be responsive, ensuring optimal viewing experience across different devices.
 Technologies Used:
 HTML: Used for structuring the content of the website.
